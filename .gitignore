@@ -1,0 +1,18 @@
+# محررات
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ملفات مؤقتة
+*.log
+*.tmp
+*.bak
+*~
+
+# Node (إذا أضفت أدوات لاحقًا)
+node_modules/
+package-lock.json
+
+# مجلد Netlify المحلي
+.netlify/
